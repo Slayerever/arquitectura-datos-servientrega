@@ -1,0 +1,6 @@
+﻿id_envio,ciudad_destino,estado_envio,ciudad_key,cod_mpio,dpto,nom_mpio,longitud,latitud
+1001,Medellin,Entregado,medellin,05001,ANTIOQUIA,MEDELLÍN,-75.581775,6.246631
+1002,Bogota,Entregado,bogota,11001,"BOGOTÁ, D.C.","BOGOTÁ, D.C.",-74.106992,4.649251
+1003,Bogota,Entregado,bogota,11001,"BOGOTÁ, D.C.","BOGOTÁ, D.C.",-74.106992,4.649251
+1004,Cartagena,En transito,cartagena de indias,13001,BOLÍVAR,CARTAGENA DE INDIAS,-75.496269,10.385126
+1005,Medellin,Devuelto,medellin,05001,ANTIOQUIA,MEDELLÍN,-75.581775,6.246631

@@ -1,0 +1,6 @@
+id_envio,fecha_envio,ciudad_origen,ciudad_destino,tipo_servicio,estado,peso_kg
+2001,2025-11-06,Bogota,Medellin,Express,Entregado,2.5
+2002,2025-11-07,Cali,Bogota,Estandar,En transito,3.0
+2003,2025-11-08,Bogota,Barranquilla,Especial,Entregado,1.8
+2004,2025-11-09,Medellin,Cali,Express,Pendiente,4.2
+2005,2025-11-10,Barranquilla,Bogota,Estandar,Entregado,2.0

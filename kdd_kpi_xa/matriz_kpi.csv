@@ -1,0 +1,7 @@
+﻿Código,Indicador (KPI),Fórmula,Meta,Valor Actual,Estado
+KPI-01,Volumen total de envíos,COUNT(id_envio),>= 5 envíos,5 envíos (8 paq.),CUMPLIDO
+KPI-02,Tiempo promedio de entrega,AVG(tiempo_entrega_horas),<= 48.0 h,42.0 h,EN OBSERVACIÓN
+KPI-03,Porcentaje de entregas a tiempo,(Entregas <= Prometida) / Entregados,>= 90.0 %,100.0 %,CUMPLIDO
+KPI-04,Tasa de devolución de envíos,(Devueltos / Total envíos) * 100,<= 10.0 %,20.0 %,ALERTA
+KPI-05,Participación servicio Express,(Envíos Express / Total) * 100,>= 35.0 %,40.0 %,CUMPLIDO
+KPI-06,Concentración destinos principales,(Bogotá + Medellín) / Total,>= 70.0 %,80.0 %,CUMPLIDO

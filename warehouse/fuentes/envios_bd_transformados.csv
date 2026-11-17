@@ -1,0 +1,6 @@
+﻿id_envio,cliente,fecha_envio,ciudad_origen,ciudad_destino,tipo_servicio,estado_envio,tiempo_entrega_horas,cantidad_paquetes
+1001,Comercial Andina S.A.S.,2025-11-01,Bogota,Medellin,Express,Entregado,24.00,1
+1004,Comercial Andina S.A.S.,2025-11-04,Barranquilla,Cartagena,Estandar,En Transito,,3
+1002,Distribuciones Central S.A.S.,2025-11-02,Medellin,Bogota,Estandar,Entregado,72.00,2
+1005,Distribuciones Central S.A.S.,2025-11-05,Bogota,Medellin,Especial,Devuelto,120.00,1
+1003,Carlos Ramirez,2025-11-03,Cali,Bogota,Express,Entregado,30.00,1
